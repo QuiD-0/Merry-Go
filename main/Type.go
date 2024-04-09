@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Type() {
 
 	var a bool = true
 	var b int = 5
