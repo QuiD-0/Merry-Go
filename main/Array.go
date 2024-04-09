@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Array() {
 
 	arr := [...]int{1, 2, 3}
 	arr2 := [3]int{1, 2, 3}
