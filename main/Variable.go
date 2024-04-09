@@ -6,7 +6,7 @@ import (
 
 var name = "Variable"
 
-func _main() {
+func Variable() {
 	const a int = 10
 	var b int = 20
 	var c = a + b

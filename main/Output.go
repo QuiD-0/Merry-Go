@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Output() {
 	a, b, c := 1, 2, 3
 
 	//stdout
