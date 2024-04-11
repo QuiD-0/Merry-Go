@@ -37,7 +37,7 @@ func enumSwitch(e Enum) {
 		println("One")
 	case Two:
 		println("Two")
-	case Three:
+	case 3:
 		println("Three")
 	default:
 		println("Unknown")
