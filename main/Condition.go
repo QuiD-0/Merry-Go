@@ -16,7 +16,7 @@ const (
 	SUCCESS PaymentType = "SUCCESS"
 )
 
-func main() {
+func Condition() {
 	var a Enum = Zero
 	var b Enum = Three
 	var c Enum = 3
