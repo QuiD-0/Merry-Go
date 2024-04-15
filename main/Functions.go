@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Functions() {
 	a, b := multiReturns(5, "Hello")
 	fmt.Println(a, b)
 
